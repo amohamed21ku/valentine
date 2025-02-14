@@ -124,7 +124,7 @@ body {
 /* Bear Container */
 .bear-container {
     position: absolute;
-    bottom: 20px; /* Adjusted to a better position */
+    bottom: 10%; /* Adjusted to a better position */
     left: 50%;
     transform: translateX(-50%) scale(0);
     opacity: 0;
@@ -172,7 +172,7 @@ body {
 /* Photo Grid */
 .photo-grid {
     position: absolute;
-    top: 35%; /* Centered vertically */
+    top: 30%; /* Centered vertically */
     left: 50%;
     transform: translate(-50%, -50%) scale(0);
     opacity: 0;
